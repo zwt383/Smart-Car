@@ -1,0 +1,21 @@
+# CCS IDE build output
+Debug/
+Release/
+
+# CCS generated files
+syscfg/
+*.map
+*.out
+*.hex
+*.bin
+*.xml
+*.raw
+*.obj
+
+# Object files
+*.o
+*.d
+
+# IDE per-user settings only
+.settings/
+.DS_Store
